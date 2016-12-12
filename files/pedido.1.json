@@ -1,0 +1,8 @@
+{
+    "usuario_id": 1,
+    "transportadora_id": 3,
+    "numero": 10,
+    "total": 20.50,
+    "forma_pagamento": "Dinheiro",
+    "produtos": ["Produto1","Produto4","Produto3"]
+}
